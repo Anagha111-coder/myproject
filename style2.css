@@ -1,0 +1,28 @@
+div {
+    width: 609px;
+    height: 377px;
+    background-color: #ff00fa;
+    margin-left: 63px;
+    margin-bottom: 65px;
+    padding-left: 95px;
+    padding-top: 157px;
+    border: 10px solid;
+    border-color: #df3226;
+}
+.box{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+.inner-div {
+    background-color: #df3226;
+    width: 20px;
+    height: 5px;
+    margin-left: 219px;
+    margin-bottom: 200px;
+}
+
+
+
+ 
+
+
