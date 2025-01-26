@@ -1,0 +1,154 @@
+.header{
+    width: 100%;
+    height: 69px;
+    background:#3b5998;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 15px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-bottom: 15px;
+}
+.logo-text{
+    color: #fff;
+font-size: 30px;
+font-weight: bold;
+text-decoration: none;
+font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+margin-left: 44px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.login-label2{
+    color: #9cb4d8;
+    font-size: 11px;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.login-controls{
+    padding-left: 170px;
+    
+}
+
+.login-button{
+    color: #fff;
+    background: #4267b2;
+
+}
+.login-button:hover{
+    background: #9cb4d8;
+}
+.left-section{
+    width: 50%;
+    float: left;
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.mainbody{
+    background: linear-gradient(white,#DED8E8);
+    width: 100%;
+    height: 500px;
+}
+.image{
+    float: left;
+    padding-left: 130px;
+    width: 471px;
+    padding-top: 14px;
+}
+.para{
+    padding-left: 162px;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.head{
+    font-size: 24px;
+    padding-left: 188px
+}
+.inner-para{
+    padding-left: 197px;
+    font-size: 14px;
+}
+.form{
+    padding-left: 193px;
+
+    
+}
+.box1{
+    width: 394px;
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+}
+.box2{
+    width: 394px;
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+
+}
+.boxf{
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+}
+.boxs{
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+
+}
+.birthday{
+    font-size: 14px;
+}
+.month{
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+
+
+}
+.day{
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+
+}
+.year{
+    border-radius: 2px;
+    border-color: #fff;
+    font-size: 15px;
+
+}
+.button{
+    color: #fff;
+    background: linear-gradient(green,#42984e)
+
+}
+.statement{
+    font-size: 11px;
+}
+
+
+
+
+
+
+
+
+    
+
+
+
